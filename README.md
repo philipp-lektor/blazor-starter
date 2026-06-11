@@ -1,6 +1,6 @@
 # Blazor Starter Application
 
-This template contains an example .NET 8 [Blazor WebAssembly](https://docs.microsoft.com/aspnet/core/blazor/?view=aspnetcore-6.0#blazor-webassembly) client application, a .NET 8 C# [Azure Functions](https://docs.microsoft.com/azure/azure-functions/functions-overview), and a C# class library with shared code.
+This template contains an example .NET 10 [Blazor WebAssembly](https://docs.microsoft.com/aspnet/core/blazor/?view=aspnetcore-6.0#blazor-webassembly) client application, a .NET 10 C# [Azure Functions](https://docs.microsoft.com/azure/azure-functions/functions-overview), and a C# class library with shared code.
 
 ## Getting Started
 
@@ -10,9 +10,9 @@ This template contains an example .NET 8 [Blazor WebAssembly](https://docs.micro
 
 1. Continue using either Visual Studio or Visual Studio Code.
 
-### Visual Studio 2022
+### Visual Studio 2026
 
-Once you clone the project, open the solution in the latest release of [Visual Studio 2022](https://visualstudio.microsoft.com/vs/) with the Azure workload installed, and follow these steps:
+Once you clone the project, open the solution in the latest release of [Visual Studio 2026](https://visualstudio.microsoft.com/vs/) with the Azure workload installed, and follow these steps:
 
 1. Right-click on the solution and select **Configure Startup Projects...**.
 
