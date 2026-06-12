@@ -29,8 +29,6 @@ Once you clone the project, open the solution in the latest release of [Visual S
 
 1. Open the folder in Visual Studio Code.
 
-1. Delete file `Client/wwwroot/appsettings.Development.json`
-
 1. In the VS Code terminal, run the following command to start the Static Web Apps CLI, along with the Blazor WebAssembly client application and the Functions API app:
 
     In the Client folder, run:
@@ -53,6 +51,8 @@ Once you clone the project, open the solution in the latest release of [Visual S
 1. Open a browser and navigate to the Static Web Apps CLI's address at `http://localhost:4280`. You'll be able to access both the client application and the Functions API app in this single address. When you navigate to the "Fetch Data" page, you'll see the data returned by the Functions API app.
 
 1. Enter Ctrl-C to stop the Static Web Apps CLI.
+
+_To avoid AzureStorage issues (Warnings) you should install the local Storage Emulator (Azurite)[https://github.com/philipp-lektor/ss2026_blazor-starter]_
 
 ## Template Structure
 
