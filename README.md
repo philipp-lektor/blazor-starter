@@ -1,6 +1,6 @@
 # Blazor Starter Application
 
-This template contains an example .NET 10 [Blazor WebAssembly](https://docs.microsoft.com/aspnet/core/blazor/?view=aspnetcore-6.0#blazor-webassembly) client application, a .NET 10 C# [Azure Functions](https://docs.microsoft.com/azure/azure-functions/functions-overview), and a C# class library with shared code.
+This template contains an example .NET 10 [Blazor WebAssembly](https://docs.microsoft.com/aspnet/core/blazor/?view=aspnetcore-6.0#blazor-webassembly) client application, a .NET 9 C# [Azure Functions](https://docs.microsoft.com/azure/azure-functions/functions-overview - currently .NET 10 is not supported for static web apps), and a C# class library with shared code.
 
 ## Getting Started
 
